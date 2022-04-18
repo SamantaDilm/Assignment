@@ -1,5 +1,5 @@
 package restaurant;
-
+int Hello;
 public class ingredients {
 	int carrot;
 	int eggs;
