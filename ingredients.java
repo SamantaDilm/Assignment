@@ -10,5 +10,4 @@ public class ingredients {
 	double Flour;
 	double Milk;
 	double Eggs;
-
 }
