@@ -1,17 +1,24 @@
 package restaurant;
 
-public class price {
-		int price_A;
-		int price_B;
-		int Price_C;
+import java.sql.Time;
+
+public class prices {
+		double price_A;
+		double price_B;
+		double Price_C;
+		boolean Eatin;
+		Double Time;
+		String Item;
+		int amount;
 	
-	public void Calculate_PriceA(int price_A) {
+	public void Calculate_PriceA(double price_A, boolean Eatin) {
+	
 		
 	}
-	public void Calculate_PriceB(int price_B) {
+	public void Calculate_PriceB(double price_B, double Time) {
 		
 	}
-	public void Calculate_PriceC(int price_C) {
-	
-	}
+	public void Calculate_PriceC(double price_C,int Time, int amount, String Item) {
+		
+		}
 }

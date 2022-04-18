@@ -1,12 +1,12 @@
 package restaurant;
 
 public class menu {
-	int drinks;
-	int main_dish;
-	int desert;
-	int side_dish;
+	double drinks;
+	double main_dish;
+	double desert;
+	double side_dish;
 	
-	public void calculate_pice() {
+	public void calculate_price() {
 		
 	}
 }

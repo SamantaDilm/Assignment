@@ -1,10 +1,14 @@
 package restaurant;
-int Hello;
+
 public class ingredients {
-	int carrot;
-	int eggs;
-	int milk;
-	int tomato;
-	int chocolate;
+	double Apple;
+	double strawberry;
+	double Tomato;
+	double Penne;
+	double Salad;
+	double Chocolate;
+	double Flour;
+	double Milk;
+	double Eggs;
 
 }
