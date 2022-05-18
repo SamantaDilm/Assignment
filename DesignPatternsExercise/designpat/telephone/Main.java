@@ -10,6 +10,10 @@ public class Main{
         KeyPad keyPad = new KeyPad(PhoneModel);
 
         new FirstDigit(PhoneModel);
+        
+        enum Number{
+        
+        }
 
         // Run the program
         keyPad.simulateKeyPresses(NUM_DIGITS);
